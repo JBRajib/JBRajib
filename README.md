@@ -1,10 +1,10 @@
-![Web Designer❤ &❤ Developer💕](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/268993704_152818950415250_939437733352281538_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGLx7jFJXWI394oSpcLdRYP9MS8oe3fOqX0xLyh7d86pVzTHPB0C2u1F_UkWvYmBwDS8nC1EXKUFfAtABGxJKa_&_nc_ohc=Pz51G1u22_IAX85ufUF&tn=3FUSiW0pksg6-XFR&_nc_ht=scontent.fdac31-1.fna&oh=00_AT8VB5bEG5-OsfLEZYx_UH38Qfkm3X8PAWvSF5O0qjM76A&oe=62B53124)
+![Web ❤ Developer💕](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/268993704_152818950415250_939437733352281538_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGLx7jFJXWI394oSpcLdRYP9MS8oe3fOqX0xLyh7d86pVzTHPB0C2u1F_UkWvYmBwDS8nC1EXKUFfAtABGxJKa_&_nc_ohc=Pz51G1u22_IAX85ufUF&tn=3FUSiW0pksg6-XFR&_nc_ht=scontent.fdac31-1.fna&oh=00_AT8VB5bEG5-OsfLEZYx_UH38Qfkm3X8PAWvSF5O0qjM76A&oe=62B53124)
 
 ### Hi there 👋, I'm Raj👌
-#### Web Designer❤ &❤ Developer💕
+#### Web ❤ Developer💕
 
 
-I’m a Web designer & developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created alot of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created alot of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
 Skills:  HTML / CSS / BOOTSTRAP / JS / REACT /
 
